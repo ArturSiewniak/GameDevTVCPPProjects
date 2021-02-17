@@ -1,0 +1,5 @@
+WASD - movement
+Space Bar - fly up
+Tab - access the terminal
+
+alt+f4 to exit demo

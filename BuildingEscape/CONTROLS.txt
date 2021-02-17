@@ -1,0 +1,7 @@
+WASD - move
+Space Bar - jump
+Right Mouse Button(hold) - pick up objects
+
+alt+f4 to exit demo
+
+Putting enough weight on the pressure plate in the corner opens doors

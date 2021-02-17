@@ -1,0 +1,7 @@
+WASD - movement
+Left Mouse Button - shoot
+
+alt+f4 to exit demo
+
+Destroy all turrets
+
