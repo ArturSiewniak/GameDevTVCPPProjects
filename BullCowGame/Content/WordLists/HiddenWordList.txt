@@ -1,0 +1,8 @@
+one
+two
+trzy
+four
+five
+nieisogram
+toteżnieisogram
+abc
